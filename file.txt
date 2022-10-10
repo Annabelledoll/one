@@ -1,0 +1,2 @@
+git - version control system 
+to control whatever the version we have in our machine
